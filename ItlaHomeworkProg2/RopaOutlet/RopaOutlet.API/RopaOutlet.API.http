@@ -1,6 +1,0 @@
-@RopaOutlet.API_HostAddress = http://localhost:5054
-
-GET {{RopaOutlet.API_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
