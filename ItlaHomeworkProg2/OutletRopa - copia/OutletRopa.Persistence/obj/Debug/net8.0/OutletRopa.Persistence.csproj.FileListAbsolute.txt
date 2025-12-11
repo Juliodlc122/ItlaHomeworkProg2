@@ -1,0 +1,17 @@
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Persistence\bin\Debug\net8.0\OutletRopa.Persistence.deps.json
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Persistence\bin\Debug\net8.0\OutletRopa.Persistence.dll
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Persistence\bin\Debug\net8.0\OutletRopa.Persistence.pdb
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Persistence\bin\Debug\net8.0\OutletRopa.Application.dll
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Persistence\bin\Debug\net8.0\OutletRopa.Domain.dll
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Persistence\bin\Debug\net8.0\OutletRopa.Application.pdb
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Persistence\bin\Debug\net8.0\OutletRopa.Domain.pdb
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Persistence\obj\Debug\net8.0\OutletRopa.Persistence.csproj.AssemblyReference.cache
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Persistence\obj\Debug\net8.0\OutletRopa.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Persistence\obj\Debug\net8.0\OutletRopa.Persistence.AssemblyInfoInputs.cache
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Persistence\obj\Debug\net8.0\OutletRopa.Persistence.AssemblyInfo.cs
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Persistence\obj\Debug\net8.0\OutletRopa.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Persistence\obj\Debug\net8.0\OutletRo.34C13B4B.Up2Date
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Persistence\obj\Debug\net8.0\OutletRopa.Persistence.dll
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Persistence\obj\Debug\net8.0\refint\OutletRopa.Persistence.dll
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Persistence\obj\Debug\net8.0\OutletRopa.Persistence.pdb
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Persistence\obj\Debug\net8.0\ref\OutletRopa.Persistence.dll

@@ -1,0 +1,1707 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.api\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|solutionrelative:outletropa.api\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\models\\inventarioproductoformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\models\\inventarioproductoformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7B7B8C-BE8D-4B68-A1BE-4DB344D63849}|OutletRopa.Application\\OutletRopa.Application.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.application\\dtos\\crearproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7B7B8C-BE8D-4B68-A1BE-4DB344D63849}|OutletRopa.Application\\OutletRopa.Application.csproj|solutionrelative:outletropa.application\\dtos\\crearproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7B7B8C-BE8D-4B68-A1BE-4DB344D63849}|OutletRopa.Application\\OutletRopa.Application.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.application\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7B7B8C-BE8D-4B68-A1BE-4DB344D63849}|OutletRopa.Application\\OutletRopa.Application.csproj|solutionrelative:outletropa.application\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8437F-2193-4679-8CBF-EF30EF3C3125}|OutletRopa.Domain\\OutletRopa.Domain.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.domain\\entities\\camisa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8437F-2193-4679-8CBF-EF30EF3C3125}|OutletRopa.Domain\\OutletRopa.Domain.csproj|solutionrelative:outletropa.domain\\entities\\camisa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8437F-2193-4679-8CBF-EF30EF3C3125}|OutletRopa.Domain\\OutletRopa.Domain.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.domain\\entities\\pantalon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8437F-2193-4679-8CBF-EF30EF3C3125}|OutletRopa.Domain\\OutletRopa.Domain.csproj|solutionrelative:outletropa.domain\\entities\\pantalon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8437F-2193-4679-8CBF-EF30EF3C3125}|OutletRopa.Domain\\OutletRopa.Domain.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.domain\\entities\\zapato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8437F-2193-4679-8CBF-EF30EF3C3125}|OutletRopa.Domain\\OutletRopa.Domain.csproj|solutionrelative:outletropa.domain\\entities\\zapato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8437F-2193-4679-8CBF-EF30EF3C3125}|OutletRopa.Domain\\OutletRopa.Domain.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.domain\\entities\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8437F-2193-4679-8CBF-EF30EF3C3125}|OutletRopa.Domain\\OutletRopa.Domain.csproj|solutionrelative:outletropa.domain\\entities\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8437F-2193-4679-8CBF-EF30EF3C3125}|OutletRopa.Domain\\OutletRopa.Domain.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.domain\\entities\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8437F-2193-4679-8CBF-EF30EF3C3125}|OutletRopa.Domain\\OutletRopa.Domain.csproj|solutionrelative:outletropa.domain\\entities\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8437F-2193-4679-8CBF-EF30EF3C3125}|OutletRopa.Domain\\OutletRopa.Domain.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8437F-2193-4679-8CBF-EF30EF3C3125}|OutletRopa.Domain\\OutletRopa.Domain.csproj|solutionrelative:outletropa.domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.api\\controllers\\promocionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|solutionrelative:outletropa.api\\controllers\\promocionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.api\\controllers\\temporadascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|solutionrelative:outletropa.api\\controllers\\temporadascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.api\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|solutionrelative:outletropa.api\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|solutionrelative:outletropa.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3B18C1-AFE5-42CB-BE91-4410AF8BF200}|OutletRopa.Persistence\\OutletRopa.Persistence.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.persistence\\migrations\\20251209235751_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3B18C1-AFE5-42CB-BE91-4410AF8BF200}|OutletRopa.Persistence\\OutletRopa.Persistence.csproj|solutionrelative:outletropa.persistence\\migrations\\20251209235751_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.api\\controllers\\ropacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|solutionrelative:outletropa.api\\controllers\\ropacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|solutionrelative:outletropa.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|solutionrelative:outletropa.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8437F-2193-4679-8CBF-EF30EF3C3125}|OutletRopa.Domain\\OutletRopa.Domain.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8437F-2193-4679-8CBF-EF30EF3C3125}|OutletRopa.Domain\\OutletRopa.Domain.csproj|solutionrelative:outletropa.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.api\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|solutionrelative:outletropa.api\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7B7B8C-BE8D-4B68-A1BE-4DB344D63849}|OutletRopa.Application\\OutletRopa.Application.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.application\\dtos\\carritocompradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7B7B8C-BE8D-4B68-A1BE-4DB344D63849}|OutletRopa.Application\\OutletRopa.Application.csproj|solutionrelative:outletropa.application\\dtos\\carritocompradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7B7B8C-BE8D-4B68-A1BE-4DB344D63849}|OutletRopa.Application\\OutletRopa.Application.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.application\\dtos\\pedidoresumendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7B7B8C-BE8D-4B68-A1BE-4DB344D63849}|OutletRopa.Application\\OutletRopa.Application.csproj|solutionrelative:outletropa.application\\dtos\\pedidoresumendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\models\\modelosapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\models\\modelosapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3B18C1-AFE5-42CB-BE91-4410AF8BF200}|OutletRopa.Persistence\\OutletRopa.Persistence.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.persistence\\services\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3B18C1-AFE5-42CB-BE91-4410AF8BF200}|OutletRopa.Persistence\\OutletRopa.Persistence.csproj|solutionrelative:outletropa.persistence\\services\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3B18C1-AFE5-42CB-BE91-4410AF8BF200}|OutletRopa.Persistence\\OutletRopa.Persistence.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3B18C1-AFE5-42CB-BE91-4410AF8BF200}|OutletRopa.Persistence\\OutletRopa.Persistence.csproj|solutionrelative:outletropa.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3B18C1-AFE5-42CB-BE91-4410AF8BF200}|OutletRopa.Persistence\\OutletRopa.Persistence.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.persistence\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3B18C1-AFE5-42CB-BE91-4410AF8BF200}|OutletRopa.Persistence\\OutletRopa.Persistence.csproj|solutionrelative:outletropa.persistence\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3B18C1-AFE5-42CB-BE91-4410AF8BF200}|OutletRopa.Persistence\\OutletRopa.Persistence.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3B18C1-AFE5-42CB-BE91-4410AF8BF200}|OutletRopa.Persistence\\OutletRopa.Persistence.csproj|solutionrelative:outletropa.persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3B18C1-AFE5-42CB-BE91-4410AF8BF200}|OutletRopa.Persistence\\OutletRopa.Persistence.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3B18C1-AFE5-42CB-BE91-4410AF8BF200}|OutletRopa.Persistence\\OutletRopa.Persistence.csproj|solutionrelative:outletropa.persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3B18C1-AFE5-42CB-BE91-4410AF8BF200}|OutletRopa.Persistence\\OutletRopa.Persistence.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.persistence\\outletdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3B18C1-AFE5-42CB-BE91-4410AF8BF200}|OutletRopa.Persistence\\OutletRopa.Persistence.csproj|solutionrelative:outletropa.persistence\\outletdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\views\\tienda\\miscompras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\views\\tienda\\miscompras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\views\\tienda\\finalizarcompra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\views\\tienda\\finalizarcompra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\views\\tienda\\reporteventas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\views\\tienda\\reporteventas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\views\\tienda\\confirmacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\views\\tienda\\confirmacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7B7B8C-BE8D-4B68-A1BE-4DB344D63849}|OutletRopa.Application\\OutletRopa.Application.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.application\\dtos\\dashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7B7B8C-BE8D-4B68-A1BE-4DB344D63849}|OutletRopa.Application\\OutletRopa.Application.csproj|solutionrelative:outletropa.application\\dtos\\dashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7B7B8C-BE8D-4B68-A1BE-4DB344D63849}|OutletRopa.Application\\OutletRopa.Application.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7B7B8C-BE8D-4B68-A1BE-4DB344D63849}|OutletRopa.Application\\OutletRopa.Application.csproj|solutionrelative:outletropa.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7B7B8C-BE8D-4B68-A1BE-4DB344D63849}|OutletRopa.Application\\OutletRopa.Application.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.application\\dtos\\registrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7B7B8C-BE8D-4B68-A1BE-4DB344D63849}|OutletRopa.Application\\OutletRopa.Application.csproj|solutionrelative:outletropa.application\\dtos\\registrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7B7B8C-BE8D-4B68-A1BE-4DB344D63849}|OutletRopa.Application\\OutletRopa.Application.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.application\\dtos\\ventadiariadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7B7B8C-BE8D-4B68-A1BE-4DB344D63849}|OutletRopa.Application\\OutletRopa.Application.csproj|solutionrelative:outletropa.application\\dtos\\ventadiariadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\models\\ventaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\models\\ventaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain.Entities\\Camisa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OutletRopa.Domain.Entities\\Camisa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain.Entities\\Zapato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OutletRopa.Domain.Entities\\Zapato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8437F-2193-4679-8CBF-EF30EF3C3125}|OutletRopa.Domain\\OutletRopa.Domain.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.domain\\entities\\temporada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8437F-2193-4679-8CBF-EF30EF3C3125}|OutletRopa.Domain\\OutletRopa.Domain.csproj|solutionrelative:outletropa.domain\\entities\\temporada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\views\\empleado\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\views\\empleado\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\views\\empleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\views\\empleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\views\\empleado\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\views\\empleado\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.api\\dtos\\inventarioproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|solutionrelative:outletropa.api\\dtos\\inventarioproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8437F-2193-4679-8CBF-EF30EF3C3125}|OutletRopa.Domain\\OutletRopa.Domain.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.domain\\entities\\promocion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8437F-2193-4679-8CBF-EF30EF3C3125}|OutletRopa.Domain\\OutletRopa.Domain.csproj|solutionrelative:outletropa.domain\\entities\\promocion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.api\\dtos\\crearclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|solutionrelative:outletropa.api\\dtos\\crearclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.api\\outletropa.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|solutionrelative:outletropa.api\\outletropa.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3357EA0C-D706-4ECE-B121-2534F87B4A35}|OutletRopa.UI\\OutletRopa.UI.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3357EA0C-D706-4ECE-B121-2534F87B4A35}|OutletRopa.UI\\OutletRopa.UI.csproj|solutionrelative:outletropa.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain.Entities\\Venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OutletRopa.Domain.Entities\\Venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F2B36B-6709-473F-8953-E7FBA5BBE563}|OutletRopa.Infrastructure\\OutletRopa.Infrastructure.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.infrastructure\\services\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F2B36B-6709-473F-8953-E7FBA5BBE563}|OutletRopa.Infrastructure\\OutletRopa.Infrastructure.csproj|solutionrelative:outletropa.infrastructure\\services\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|solutionrelative:outletropa.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\views\\tienda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\views\\tienda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8437F-2193-4679-8CBF-EF30EF3C3125}|OutletRopa.Domain\\OutletRopa.Domain.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.domain\\entities\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8437F-2193-4679-8CBF-EF30EF3C3125}|OutletRopa.Domain\\OutletRopa.Domain.csproj|solutionrelative:outletropa.domain\\entities\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\models\\crearventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\models\\crearventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Migrations\\20251209103305_InitialCleanSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OutletRopa.Persistence\\Migrations\\20251209103305_InitialCleanSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Migrations\\20251209103048_InicialCatalogoRopa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OutletRopa.Persistence\\Migrations\\20251209103048_InicialCatalogoRopa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Migrations\\20251209102459_InicialHerenciaRopa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OutletRopa.Persistence\\Migrations\\20251209102459_InicialHerenciaRopa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.api\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|solutionrelative:outletropa.api\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\OutletRopa.API\\Controllers\\VentasController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8437F-2193-4679-8CBF-EF30EF3C3125}|OutletRopa.Domain\\OutletRopa.Domain.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8437F-2193-4679-8CBF-EF30EF3C3125}|OutletRopa.Domain\\OutletRopa.Domain.csproj|solutionrelative:outletropa.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.api\\dtos\\ventadetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|solutionrelative:outletropa.api\\dtos\\ventadetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|solutionrelative:outletropa.api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.api\\dtos\\registrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|solutionrelative:outletropa.api\\dtos\\registrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\views\\acceso\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\views\\acceso\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\views\\tienda\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\views\\tienda\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\views\\tienda\\compraexitosa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\views\\tienda\\compraexitosa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\views\\tienda\\pago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\views\\tienda\\pago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.api\\dtos\\crearventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|solutionrelative:outletropa.api\\dtos\\crearventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7B7B8C-BE8D-4B68-A1BE-4DB344D63849}|OutletRopa.Application\\OutletRopa.Application.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.application\\interfaces\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7B7B8C-BE8D-4B68-A1BE-4DB344D63849}|OutletRopa.Application\\OutletRopa.Application.csproj|solutionrelative:outletropa.application\\interfaces\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\models\\camisaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\models\\camisaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3B18C1-AFE5-42CB-BE91-4410AF8BF200}|OutletRopa.Persistence\\OutletRopa.Persistence.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.persistence\\outletropa.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC3B18C1-AFE5-42CB-BE91-4410AF8BF200}|OutletRopa.Persistence\\OutletRopa.Persistence.csproj|solutionrelative:outletropa.persistence\\outletropa.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.api\\outletropa.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|solutionrelative:outletropa.api\\outletropa.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F2B36B-6709-473F-8953-E7FBA5BBE563}|OutletRopa.Infrastructure\\OutletRopa.Infrastructure.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.infrastructure\\outletropa.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5F2B36B-6709-473F-8953-E7FBA5BBE563}|OutletRopa.Infrastructure\\OutletRopa.Infrastructure.csproj|solutionrelative:outletropa.infrastructure\\outletropa.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8437F-2193-4679-8CBF-EF30EF3C3125}|OutletRopa.Domain\\OutletRopa.Domain.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.domain\\outletropa.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2ED8437F-2193-4679-8CBF-EF30EF3C3125}|OutletRopa.Domain\\OutletRopa.Domain.csproj|solutionrelative:outletropa.domain\\outletropa.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7B7B8C-BE8D-4B68-A1BE-4DB344D63849}|OutletRopa.Application\\OutletRopa.Application.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.application\\interfaces\\ifilestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7B7B8C-BE8D-4B68-A1BE-4DB344D63849}|OutletRopa.Application\\OutletRopa.Application.csproj|solutionrelative:outletropa.application\\interfaces\\ifilestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3357EA0C-D706-4ECE-B121-2534F87B4A35}|OutletRopa.UI\\OutletRopa.UI.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.ui\\pages\\crearprenda.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3357EA0C-D706-4ECE-B121-2534F87B4A35}|OutletRopa.UI\\OutletRopa.UI.csproj|solutionrelative:outletropa.ui\\pages\\crearprenda.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|solutionrelative:outletropa.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F2B36B-6709-473F-8953-E7FBA5BBE563}|OutletRopa.Infrastructure\\OutletRopa.Infrastructure.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.infrastructure\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F2B36B-6709-473F-8953-E7FBA5BBE563}|OutletRopa.Infrastructure\\OutletRopa.Infrastructure.csproj|solutionrelative:outletropa.infrastructure\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3357EA0C-D706-4ECE-B121-2534F87B4A35}|OutletRopa.UI\\OutletRopa.UI.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.ui\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3357EA0C-D706-4ECE-B121-2534F87B4A35}|OutletRopa.UI\\OutletRopa.UI.csproj|solutionrelative:outletropa.ui\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Migrations\\20251207034458_NuevosProductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OutletRopa.Persistence\\Migrations\\20251207034458_NuevosProductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7B7B8C-BE8D-4B68-A1BE-4DB344D63849}|OutletRopa.Application\\OutletRopa.Application.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7B7B8C-BE8D-4B68-A1BE-4DB344D63849}|OutletRopa.Application\\OutletRopa.Application.csproj|solutionrelative:outletropa.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.api\\utilidades\\encriptador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52A2D2E-6888-453A-9349-AA82AA4263A4}|OutletRopa.API\\OutletRopa.API.csproj|solutionrelative:outletropa.api\\utilidades\\encriptador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\views\\acceso\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\views\\acceso\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\client-mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F774123-7EBC-43C2-9506-CF3499B030DE}|client-mvc\\client-mvc.csproj|solutionrelative:client-mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Migrations\\20251206223453_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OutletRopa.Persistence\\Migrations\\20251206223453_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3B18C1-AFE5-42CB-BE91-4410AF8BF200}|OutletRopa.Persistence\\OutletRopa.Persistence.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.persistence\\migrations\\20251210011205_ajustecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3B18C1-AFE5-42CB-BE91-4410AF8BF200}|OutletRopa.Persistence\\OutletRopa.Persistence.csproj|solutionrelative:outletropa.persistence\\migrations\\20251210011205_ajustecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3B18C1-AFE5-42CB-BE91-4410AF8BF200}|OutletRopa.Persistence\\OutletRopa.Persistence.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkprog2\\outletropa\\outletropa.persistence\\migrations\\20251210003553_tablausuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3B18C1-AFE5-42CB-BE91-4410AF8BF200}|OutletRopa.Persistence\\OutletRopa.Persistence.csproj|solutionrelative:outletropa.persistence\\migrations\\20251210003553_tablausuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrearProductoDto.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Application\\DTOs\\CrearProductoDto.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Application\\DTOs\\CrearProductoDto.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Application\\DTOs\\CrearProductoDto.cs",
+              "RelativeToolTip": "OutletRopa.Application\\DTOs\\CrearProductoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T21:46:39.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventarioProductoFormModel.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Models\\InventarioProductoFormModel.cs",
+              "RelativeDocumentMoniker": "client-mvc\\Models\\InventarioProductoFormModel.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Models\\InventarioProductoFormModel.cs",
+              "RelativeToolTip": "client-mvc\\Models\\InventarioProductoFormModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:30:53.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "OutletRopa.API\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "OutletRopa.API\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T22:27:31.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "client-mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "client-mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AgIAAMUDAAAAAAAAAAAtwMkDAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-09T19:15:56.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Application\\Services\\DashboardService.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Application\\Services\\DashboardService.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Application\\Services\\DashboardService.cs",
+              "RelativeToolTip": "OutletRopa.Application\\Services\\DashboardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:19:54.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Camisa.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain\\Entities\\Camisa.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Domain\\Entities\\Camisa.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain\\Entities\\Camisa.cs",
+              "RelativeToolTip": "OutletRopa.Domain\\Entities\\Camisa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T22:11:04.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pantalon.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain\\Entities\\Pantalon.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Domain\\Entities\\Pantalon.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain\\Entities\\Pantalon.cs",
+              "RelativeToolTip": "OutletRopa.Domain\\Entities\\Pantalon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T03:40:35.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Zapato.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain\\Entities\\Zapato.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Domain\\Entities\\Zapato.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain\\Entities\\Zapato.cs",
+              "RelativeToolTip": "OutletRopa.Domain\\Entities\\Zapato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T03:40:59.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain\\Entities\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Domain\\Entities\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain\\Entities\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "OutletRopa.Domain\\Entities\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:20:30.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain\\Entities\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Domain\\Entities\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain\\Entities\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "OutletRopa.Domain\\Entities\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:41:07.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Domain\\Entities\\Producto.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain\\Entities\\Producto.cs",
+              "RelativeToolTip": "OutletRopa.Domain\\Entities\\Producto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAywBEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:34:52.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PromocionesController.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\Controllers\\PromocionesController.cs",
+              "RelativeDocumentMoniker": "OutletRopa.API\\Controllers\\PromocionesController.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\Controllers\\PromocionesController.cs",
+              "RelativeToolTip": "OutletRopa.API\\Controllers\\PromocionesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:28:19.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TemporadasController.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\Controllers\\TemporadasController.cs",
+              "RelativeDocumentMoniker": "OutletRopa.API\\Controllers\\TemporadasController.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\Controllers\\TemporadasController.cs",
+              "RelativeToolTip": "OutletRopa.API\\Controllers\\TemporadasController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:27:17.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InventarioController.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\Controllers\\InventarioController.cs",
+              "RelativeDocumentMoniker": "OutletRopa.API\\Controllers\\InventarioController.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\Controllers\\InventarioController.cs",
+              "RelativeToolTip": "OutletRopa.API\\Controllers\\InventarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:25:58.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\Program.cs",
+              "RelativeDocumentMoniker": "OutletRopa.API\\Program.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\Program.cs",
+              "RelativeToolTip": "OutletRopa.API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T22:14:24.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20251209235751_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Migrations\\20251209235751_Inicial.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Persistence\\Migrations\\20251209235751_Inicial.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Migrations\\20251209235751_Inicial.cs",
+              "RelativeToolTip": "OutletRopa.Persistence\\Migrations\\20251209235751_Inicial.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAUwEoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T23:57:51.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RopaController.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\Controllers\\RopaController.cs",
+              "RelativeDocumentMoniker": "OutletRopa.API\\Controllers\\RopaController.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\Controllers\\RopaController.cs",
+              "RelativeToolTip": "OutletRopa.API\\Controllers\\RopaController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T22:15:56.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "OutletRopa.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "OutletRopa.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T01:42:01.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "client-mvc\\Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "client-mvc\\Controllers\\AccesoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T01:42:43.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Program.cs",
+              "RelativeDocumentMoniker": "client-mvc\\Program.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Program.cs",
+              "RelativeToolTip": "client-mvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T23:25:11.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "OutletRopa.API\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "OutletRopa.API\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T23:10:11.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Domain\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain\\Entities\\Cliente.cs",
+              "RelativeToolTip": "OutletRopa.Domain\\Entities\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T22:12:44.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "OutletRopa.API\\Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "OutletRopa.API\\Controllers\\VentasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T23:05:17.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CarritoCompraDto.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Application\\DTOs\\CarritoCompraDto.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Application\\DTOs\\CarritoCompraDto.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Application\\DTOs\\CarritoCompraDto.cs",
+              "RelativeToolTip": "OutletRopa.Application\\DTOs\\CarritoCompraDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T05:20:27.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PedidoResumenDto.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Application\\DTOs\\PedidoResumenDto.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Application\\DTOs\\PedidoResumenDto.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Application\\DTOs\\PedidoResumenDto.cs",
+              "RelativeToolTip": "OutletRopa.Application\\DTOs\\PedidoResumenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T02:02:19.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ModelosApi.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Models\\ModelosApi.cs",
+              "RelativeDocumentMoniker": "client-mvc\\Models\\ModelosApi.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Models\\ModelosApi.cs",
+              "RelativeToolTip": "client-mvc\\Models\\ModelosApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T02:12:13.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FileStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Services\\FileStorageService.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Persistence\\Services\\FileStorageService.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Services\\FileStorageService.cs",
+              "RelativeToolTip": "OutletRopa.Persistence\\Services\\FileStorageService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T20:27:38.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Persistence\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\ServiceRegistration.cs",
+              "RelativeToolTip": "OutletRopa.Persistence\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T20:35:39.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "OutletRopa.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T23:06:50.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Persistence\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "OutletRopa.Persistence\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T23:02:56.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Persistence\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "OutletRopa.Persistence\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T22:55:21.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OutletDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\OutletDbContext.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Persistence\\OutletDbContext.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\OutletDbContext.cs",
+              "RelativeToolTip": "OutletRopa.Persistence\\OutletDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T02:54:02.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MisCompras.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Tienda\\MisCompras.cshtml",
+              "RelativeDocumentMoniker": "client-mvc\\Views\\Tienda\\MisCompras.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Tienda\\MisCompras.cshtml",
+              "RelativeToolTip": "client-mvc\\Views\\Tienda\\MisCompras.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T02:10:19.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FinalizarCompra.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Tienda\\FinalizarCompra.cshtml",
+              "RelativeDocumentMoniker": "client-mvc\\Views\\Tienda\\FinalizarCompra.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Tienda\\FinalizarCompra.cshtml",
+              "RelativeToolTip": "client-mvc\\Views\\Tienda\\FinalizarCompra.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T01:01:49.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TiendaController.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Controllers\\TiendaController.cs",
+              "RelativeDocumentMoniker": "client-mvc\\Controllers\\TiendaController.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Controllers\\TiendaController.cs",
+              "RelativeToolTip": "client-mvc\\Controllers\\TiendaController.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAuwAEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T23:29:37.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ReporteVentas.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Tienda\\ReporteVentas.cshtml",
+              "RelativeDocumentMoniker": "client-mvc\\Views\\Tienda\\ReporteVentas.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Tienda\\ReporteVentas.cshtml",
+              "RelativeToolTip": "client-mvc\\Views\\Tienda\\ReporteVentas.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T02:10:46.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Confirmacion.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Tienda\\Confirmacion.cshtml",
+              "RelativeDocumentMoniker": "client-mvc\\Views\\Tienda\\Confirmacion.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Tienda\\Confirmacion.cshtml",
+              "RelativeToolTip": "client-mvc\\Views\\Tienda\\Confirmacion.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-07T00:04:45.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DashboardDto.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Application\\DTOs\\DashboardDto.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Application\\DTOs\\DashboardDto.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Application\\DTOs\\DashboardDto.cs",
+              "RelativeToolTip": "OutletRopa.Application\\DTOs\\DashboardDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T02:37:24.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Application\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Application\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Application\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "OutletRopa.Application\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T03:39:32.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RegistroDto.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Application\\DTOs\\RegistroDto.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Application\\DTOs\\RegistroDto.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Application\\DTOs\\RegistroDto.cs",
+              "RelativeToolTip": "OutletRopa.Application\\DTOs\\RegistroDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T03:40:07.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "VentaDiariaDto.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Application\\DTOs\\VentaDiariaDto.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Application\\DTOs\\VentaDiariaDto.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Application\\DTOs\\VentaDiariaDto.cs",
+              "RelativeToolTip": "OutletRopa.Application\\DTOs\\VentaDiariaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T02:36:37.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "client-mvc\\Models\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "client-mvc\\Models\\ProductViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T22:28:22.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "VentaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Models\\VentaViewModel.cs",
+              "RelativeDocumentMoniker": "client-mvc\\Models\\VentaViewModel.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Models\\VentaViewModel.cs",
+              "RelativeToolTip": "client-mvc\\Models\\VentaViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T01:34:01.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "20251210011205_AjusteCliente.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Migrations\\20251210011205_AjusteCliente.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Persistence\\Migrations\\20251210011205_AjusteCliente.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Migrations\\20251210011205_AjusteCliente.cs",
+              "RelativeToolTip": "OutletRopa.Persistence\\Migrations\\20251210011205_AjusteCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T01:12:05.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "20251210003553_TablaUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Migrations\\20251210003553_TablaUsuarios.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Persistence\\Migrations\\20251210003553_TablaUsuarios.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Migrations\\20251210003553_TablaUsuarios.cs",
+              "RelativeToolTip": "OutletRopa.Persistence\\Migrations\\20251210003553_TablaUsuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T00:35:53.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Zapato.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain.Entities\\Zapato.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Domain.Entities\\Zapato.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain.Entities\\Zapato.cs",
+              "RelativeToolTip": "OutletRopa.Domain.Entities\\Zapato.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T22:00:35.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Camisa.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain.Entities\\Camisa.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Domain.Entities\\Camisa.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain.Entities\\Camisa.cs",
+              "RelativeToolTip": "OutletRopa.Domain.Entities\\Camisa.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T22:00:28.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Temporada.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain\\Entities\\Temporada.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Domain\\Entities\\Temporada.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain\\Entities\\Temporada.cs",
+              "RelativeToolTip": "OutletRopa.Domain\\Entities\\Temporada.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBjwA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:22:46.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Empleado\\Editar.cshtml",
+              "RelativeDocumentMoniker": "client-mvc\\Views\\Empleado\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Empleado\\Editar.cshtml",
+              "RelativeToolTip": "client-mvc\\Views\\Empleado\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T19:52:03.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "client-mvc\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "client-mvc\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAiwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:31:55.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Empleado\\Index.cshtml",
+              "RelativeDocumentMoniker": "client-mvc\\Views\\Empleado\\Index.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Empleado\\Index.cshtml",
+              "RelativeToolTip": "client-mvc\\Views\\Empleado\\Index.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAmwDcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T19:48:45.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Empleado\\Crear.cshtml",
+              "RelativeDocumentMoniker": "client-mvc\\Views\\Empleado\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Empleado\\Crear.cshtml",
+              "RelativeToolTip": "client-mvc\\Views\\Empleado\\Crear.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T19:50:31.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "client-mvc\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "client-mvc\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-07T01:25:00.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "InventarioProductoDto.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\DTOs\\InventarioProductoDto.cs",
+              "RelativeDocumentMoniker": "OutletRopa.API\\DTOs\\InventarioProductoDto.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\DTOs\\InventarioProductoDto.cs",
+              "RelativeToolTip": "OutletRopa.API\\DTOs\\InventarioProductoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:24:37.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Promocion.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain\\Entities\\Promocion.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Domain\\Entities\\Promocion.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain\\Entities\\Promocion.cs",
+              "RelativeToolTip": "OutletRopa.Domain\\Entities\\Promocion.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:23:10.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain.Entities\\Venta.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Domain.Entities\\Venta.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain.Entities\\Venta.cs",
+              "RelativeToolTip": "OutletRopa.Domain.Entities\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T22:00:41.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.UI\\Program.cs",
+              "RelativeDocumentMoniker": "OutletRopa.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.UI\\Program.cs",
+              "RelativeToolTip": "OutletRopa.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T21:40:05.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "OutletRopa.API.http",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\OutletRopa.API.http",
+              "RelativeDocumentMoniker": "OutletRopa.API\\OutletRopa.API.http",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\OutletRopa.API.http",
+              "RelativeToolTip": "OutletRopa.API\\OutletRopa.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-07T21:42:03.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CrearClienteDto.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\DTOs\\CrearClienteDto.cs",
+              "RelativeDocumentMoniker": "OutletRopa.API\\DTOs\\CrearClienteDto.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\DTOs\\CrearClienteDto.cs",
+              "RelativeToolTip": "OutletRopa.API\\DTOs\\CrearClienteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T23:09:32.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "client-mvc\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Properties\\launchSettings.json",
+              "RelativeToolTip": "client-mvc\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-06T23:18:40.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FileStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Infrastructure\\Services\\FileStorageService.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Infrastructure\\Services\\FileStorageService.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Infrastructure\\Services\\FileStorageService.cs",
+              "RelativeToolTip": "OutletRopa.Infrastructure\\Services\\FileStorageService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAhwCYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T20:53:25.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OutletRopa.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OutletRopa.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-06T23:52:18.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\appsettings.json",
+              "RelativeDocumentMoniker": "client-mvc\\appsettings.json",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\appsettings.json",
+              "RelativeToolTip": "client-mvc\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-06T23:20:16.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Tienda\\Index.cshtml",
+              "RelativeDocumentMoniker": "client-mvc\\Views\\Tienda\\Index.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Tienda\\Index.cshtml",
+              "RelativeToolTip": "client-mvc\\Views\\Tienda\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T23:30:51.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "client-mvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "client-mvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-07T00:47:49.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "client-mvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "client-mvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAAIkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T23:43:43.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain\\Entities\\Venta.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Domain\\Entities\\Venta.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain\\Entities\\Venta.cs",
+              "RelativeToolTip": "OutletRopa.Domain\\Entities\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T23:01:17.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "client-mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "client-mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T02:36:54.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CrearVentaDto.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Models\\CrearVentaDto.cs",
+              "RelativeDocumentMoniker": "client-mvc\\Models\\CrearVentaDto.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Models\\CrearVentaDto.cs",
+              "RelativeToolTip": "client-mvc\\Models\\CrearVentaDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T23:33:11.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20251209103305_InitialCleanSetup.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Migrations\\20251209103305_InitialCleanSetup.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Persistence\\Migrations\\20251209103305_InitialCleanSetup.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Migrations\\20251209103305_InitialCleanSetup.cs",
+              "RelativeToolTip": "OutletRopa.Persistence\\Migrations\\20251209103305_InitialCleanSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T10:33:05.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20251209103048_InicialCatalogoRopa.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Migrations\\20251209103048_InicialCatalogoRopa.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Persistence\\Migrations\\20251209103048_InicialCatalogoRopa.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Migrations\\20251209103048_InicialCatalogoRopa.cs",
+              "RelativeToolTip": "OutletRopa.Persistence\\Migrations\\20251209103048_InicialCatalogoRopa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T10:30:48.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20251209102459_InicialHerenciaRopa.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Migrations\\20251209102459_InicialHerenciaRopa.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Persistence\\Migrations\\20251209102459_InicialHerenciaRopa.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Migrations\\20251209102459_InicialHerenciaRopa.cs",
+              "RelativeToolTip": "OutletRopa.Persistence\\Migrations\\20251209102459_InicialHerenciaRopa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T10:24:59.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ReportesController.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\Controllers\\ReportesController.cs",
+              "RelativeDocumentMoniker": "OutletRopa.API\\Controllers\\ReportesController.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\Controllers\\ReportesController.cs",
+              "RelativeToolTip": "OutletRopa.API\\Controllers\\ReportesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T03:51:59.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\OutletRopa.API\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\OutletRopa.API\\Controllers\\VentasController.cs",
+              "ToolTip": "C:\\OutletRopa.API\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\OutletRopa.API\\Controllers\\VentasController.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAkwJEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T04:35:13.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "OutletRopa.Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T01:38:50.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "VentaDetalleDto.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\DTOs\\VentaDetalleDto.cs",
+              "RelativeDocumentMoniker": "OutletRopa.API\\DTOs\\VentaDetalleDto.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\DTOs\\VentaDetalleDto.cs",
+              "RelativeToolTip": "OutletRopa.API\\DTOs\\VentaDetalleDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T02:14:35.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "OutletRopa.API\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "OutletRopa.API\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T01:41:34.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "RegistroDto.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\DTOs\\RegistroDto.cs",
+              "RelativeDocumentMoniker": "OutletRopa.API\\DTOs\\RegistroDto.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\DTOs\\RegistroDto.cs",
+              "RelativeToolTip": "OutletRopa.API\\DTOs\\RegistroDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T02:18:26.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Acceso\\Login.cshtml",
+              "RelativeDocumentMoniker": "client-mvc\\Views\\Acceso\\Login.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Acceso\\Login.cshtml",
+              "RelativeToolTip": "client-mvc\\Views\\Acceso\\Login.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwCgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-07T01:43:58.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Carrito.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Tienda\\Carrito.cshtml",
+              "RelativeDocumentMoniker": "client-mvc\\Views\\Tienda\\Carrito.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Tienda\\Carrito.cshtml",
+              "RelativeToolTip": "client-mvc\\Views\\Tienda\\Carrito.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-07T01:10:14.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "CompraExitosa.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Tienda\\CompraExitosa.cshtml",
+              "RelativeDocumentMoniker": "client-mvc\\Views\\Tienda\\CompraExitosa.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Tienda\\CompraExitosa.cshtml",
+              "RelativeToolTip": "client-mvc\\Views\\Tienda\\CompraExitosa.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T00:26:35.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Pago.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Tienda\\Pago.cshtml",
+              "RelativeDocumentMoniker": "client-mvc\\Views\\Tienda\\Pago.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Tienda\\Pago.cshtml",
+              "RelativeToolTip": "client-mvc\\Views\\Tienda\\Pago.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwCoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T00:26:03.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "CrearVentaDto.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\DTOs\\CrearVentaDto.cs",
+              "RelativeDocumentMoniker": "OutletRopa.API\\DTOs\\CrearVentaDto.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\DTOs\\CrearVentaDto.cs",
+              "RelativeToolTip": "OutletRopa.API\\DTOs\\CrearVentaDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T23:04:51.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "IDashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Application\\Interfaces\\IDashboardService.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Application\\Interfaces\\IDashboardService.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Application\\Interfaces\\IDashboardService.cs",
+              "RelativeToolTip": "OutletRopa.Application\\Interfaces\\IDashboardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T02:51:34.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "client-mvc\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "client-mvc\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T00:29:02.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "CamisaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Models\\CamisaViewModel.cs",
+              "RelativeDocumentMoniker": "client-mvc\\Models\\CamisaViewModel.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Models\\CamisaViewModel.cs",
+              "RelativeToolTip": "client-mvc\\Models\\CamisaViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T23:28:56.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "OutletRopa.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\OutletRopa.Persistence.csproj",
+              "RelativeDocumentMoniker": "OutletRopa.Persistence\\OutletRopa.Persistence.csproj",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\OutletRopa.Persistence.csproj",
+              "RelativeToolTip": "OutletRopa.Persistence\\OutletRopa.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-07T21:58:31.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "OutletRopa.API.csproj",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\OutletRopa.API.csproj",
+              "RelativeDocumentMoniker": "OutletRopa.API\\OutletRopa.API.csproj",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\OutletRopa.API.csproj",
+              "RelativeToolTip": "OutletRopa.API\\OutletRopa.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-07T22:06:11.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "OutletRopa.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Infrastructure\\OutletRopa.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "OutletRopa.Infrastructure\\OutletRopa.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Infrastructure\\OutletRopa.Infrastructure.csproj",
+              "RelativeToolTip": "OutletRopa.Infrastructure\\OutletRopa.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-07T22:06:21.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "OutletRopa.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain\\OutletRopa.Domain.csproj",
+              "RelativeDocumentMoniker": "OutletRopa.Domain\\OutletRopa.Domain.csproj",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Domain\\OutletRopa.Domain.csproj",
+              "RelativeToolTip": "OutletRopa.Domain\\OutletRopa.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-07T22:05:47.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "IFileStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Application\\Interfaces\\IFileStorageService.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Application\\Interfaces\\IFileStorageService.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Application\\Interfaces\\IFileStorageService.cs",
+              "RelativeToolTip": "OutletRopa.Application\\Interfaces\\IFileStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T20:29:14.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "CrearPrenda.razor",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.UI\\Pages\\CrearPrenda.razor",
+              "RelativeDocumentMoniker": "OutletRopa.UI\\Pages\\CrearPrenda.razor",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.UI\\Pages\\CrearPrenda.razor",
+              "RelativeToolTip": "OutletRopa.UI\\Pages\\CrearPrenda.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-07T21:43:04.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\appsettings.json",
+              "RelativeDocumentMoniker": "OutletRopa.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\appsettings.json",
+              "RelativeToolTip": "OutletRopa.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-06T22:14:52.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Infrastructure\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Infrastructure\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Infrastructure\\ServiceRegistration.cs",
+              "RelativeToolTip": "OutletRopa.Infrastructure\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T21:20:40.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.UI\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "OutletRopa.UI\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.UI\\wwwroot\\index.html",
+              "RelativeToolTip": "OutletRopa.UI\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-07T20:36:53.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "20251207034458_NuevosProductos.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Migrations\\20251207034458_NuevosProductos.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Persistence\\Migrations\\20251207034458_NuevosProductos.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Migrations\\20251207034458_NuevosProductos.cs",
+              "RelativeToolTip": "OutletRopa.Persistence\\Migrations\\20251207034458_NuevosProductos.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T03:44:58.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Application\\Class1.cs",
+              "RelativeToolTip": "OutletRopa.Application\\Class1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T03:36:33.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Encriptador.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\Utilidades\\Encriptador.cs",
+              "RelativeDocumentMoniker": "OutletRopa.API\\Utilidades\\Encriptador.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.API\\Utilidades\\Encriptador.cs",
+              "RelativeToolTip": "OutletRopa.API\\Utilidades\\Encriptador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T02:17:53.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Registrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Acceso\\Registrar.cshtml",
+              "RelativeDocumentMoniker": "client-mvc\\Views\\Acceso\\Registrar.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Acceso\\Registrar.cshtml",
+              "RelativeToolTip": "client-mvc\\Views\\Acceso\\Registrar.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwDYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-07T02:31:07.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "client-mvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "client-mvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-07T00:05:12.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "client-mvc\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\client-mvc\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "client-mvc\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-07T00:05:05.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "20251206223453_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Migrations\\20251206223453_Inicial.cs",
+              "RelativeDocumentMoniker": "OutletRopa.Persistence\\Migrations\\20251206223453_Inicial.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkProg2\\OutletRopa\\OutletRopa.Persistence\\Migrations\\20251206223453_Inicial.cs",
+              "RelativeToolTip": "OutletRopa.Persistence\\Migrations\\20251206223453_Inicial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T22:34:53.457Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

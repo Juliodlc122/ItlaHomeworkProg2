@@ -1,0 +1,15 @@
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\RopaOutlet\RopaOutlet.Application\bin\Debug\net8.0\RopaOutlet.Application.deps.json
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\RopaOutlet\RopaOutlet.Application\bin\Debug\net8.0\RopaOutlet.Application.dll
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\RopaOutlet\RopaOutlet.Application\bin\Debug\net8.0\RopaOutlet.Application.pdb
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\RopaOutlet\RopaOutlet.Application\bin\Debug\net8.0\RopaOutlet.Domain.dll
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\RopaOutlet\RopaOutlet.Application\bin\Debug\net8.0\RopaOutlet.Domain.pdb
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\RopaOutlet\RopaOutlet.Application\obj\Debug\net8.0\RopaOutlet.Application.csproj.AssemblyReference.cache
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\RopaOutlet\RopaOutlet.Application\obj\Debug\net8.0\RopaOutlet.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\RopaOutlet\RopaOutlet.Application\obj\Debug\net8.0\RopaOutlet.Application.AssemblyInfoInputs.cache
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\RopaOutlet\RopaOutlet.Application\obj\Debug\net8.0\RopaOutlet.Application.AssemblyInfo.cs
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\RopaOutlet\RopaOutlet.Application\obj\Debug\net8.0\RopaOutlet.Application.csproj.CoreCompileInputs.cache
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\RopaOutlet\RopaOutlet.Application\obj\Debug\net8.0\RopaOutl.72FECAFE.Up2Date
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\RopaOutlet\RopaOutlet.Application\obj\Debug\net8.0\RopaOutlet.Application.dll
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\RopaOutlet\RopaOutlet.Application\obj\Debug\net8.0\refint\RopaOutlet.Application.dll
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\RopaOutlet\RopaOutlet.Application\obj\Debug\net8.0\RopaOutlet.Application.pdb
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\RopaOutlet\RopaOutlet.Application\obj\Debug\net8.0\ref\RopaOutlet.Application.dll

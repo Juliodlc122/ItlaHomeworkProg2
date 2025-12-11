@@ -1,0 +1,59 @@
+﻿@model List<client_mvc.Models.ProductViewModel>
+
+<div class="container mt-4">
+    <h2 class="text-center mb-4">Catálogo de Ofertas</h2>
+    <div class="d-flex justify-content-center mb-4 gap-2">
+        <a asp-action="Index" asp-route-categoria=""
+           class="btn @(ViewBag.CategoriaActual == null ? "btn-dark" : "btn-outline-dark")">
+            Todos
+        </a>
+        <a asp-action="Index" asp-route-categoria="Camisa"
+           class="btn @(ViewBag.CategoriaActual == "Camisa" ? "btn-dark" : "btn-outline-dark")">
+            👕 Camisas
+        </a>
+        <a asp-action="Index" asp-route-categoria="Pantalon"
+           class="btn @(ViewBag.CategoriaActual == "Pantalon" ? "btn-dark" : "btn-outline-dark")">
+            👖 Pantalones
+        </a>
+        <a asp-action="Index" asp-route-categoria="Zapato"
+           class="btn @(ViewBag.CategoriaActual == "Zapato" ? "btn-dark" : "btn-outline-dark")">
+            👟 Zapatos
+        </a>
+    </div>
+
+    @if (TempData["ApiError"] != null)
+    {
+        <div class="alert alert-danger">@TempData["ApiError"]</div>
+    }
+    @if (TempData["MensajeExito"] != null)
+    {
+        <div class="alert alert-success">@TempData["MensajeExito"]</div>
+    }
+
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+        @foreach (var item in Model)
+        {
+            <div class="col">
+                <div class="card h-100 shadow-sm">
+                    <img src="@(string.IsNullOrEmpty(item.ImagenUrl) ? "https://via.placeholder.com/300" : item.ImagenUrl)"
+                         class="card-img-top"
+                         alt="@item.Nombre"
+                         style="height: 250px; object-fit: cover;">
+
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Nombre</h5>
+                        <p class="card-text">Talla: <span class="badge bg-secondary">@item.Talla</span></p>
+
+                        <h4 class="text-primary">$@item.PrecioOriginal</h4>
+                    </div>
+
+                    <div class="card-footer bg-white border-top-0">
+                        <a asp-action="AgregarAlCarrito" asp-route-id="@item.Id" class="btn btn-success w-100">
+                            Agregar al Carrito
+                        </a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

@@ -1,0 +1,93 @@
+﻿@model List<client_mvc.Models.PedidoResumenDto>
+@using System.Globalization
+
+@{
+    ViewData["Title"] = "Reporte de Ventas";
+    
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    var culture = new CultureInfo("es-DO");
+    var list = Model ?? new List<client_mvc.Models.PedidoResumenDto>();
+    var total = list.Sum(x => x.TotalPagado);
+    var count = list.Count();
+    var avg = count > 0 ? total / count : 0m;
+}
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2 class="m-0"><i class="bi bi-graph-up"></i> Reporte de Ventas</h2>
+        <button onclick="window.print()" class="btn btn-outline-secondary"><i class="bi bi-printer"></i> Imprimir</button>
+    </div>
+
+    @if (TempData["ApiError"] != null)
+    {
+        <div class="alert alert-danger">@TempData["ApiError"]</div>
+    }
+
+    @if (!list.Any())
+    {
+        <div class="alert alert-info">No hay ventas registradas en el sistema.</div>
+    }
+    else
+    {
+        <div class="row mb-3">
+            <div class="col-md-4 mb-2">
+                <div class="card bg-primary text-white h-100">
+                    <div class="card-body text-center">
+                        <h6>Total Pedidos</h6>
+                        <h3>@count</h3>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-2">
+                <div class="card bg-success text-white h-100">
+                    <div class="card-body text-center">
+                        <h6>Ingresos Totales</h6>
+                        <h3>@total.ToString("C2", culture)</h3>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-2">
+                <div class="card bg-info text-white h-100">
+                    <div class="card-body text-center">
+                        <h6>Promedio Venta</h6>
+                        <h3>@avg.ToString("C2", culture)</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card shadow">
+            <div class="table-responsive">
+                <table class="table table-hover mb-0">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>Código</th>
+                            <th>Fecha</th>
+                            <th>Estado</th>
+                            <th>Detalle</th>
+                            <th class="text-end">Total</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in list)
+                        {
+                            <tr>
+                                <td><strong>#@item.CodigoPedido</strong></td>
+                                <td>
+                                    @item.Fecha.ToString("dd/MM/yyyy") <br />
+                                    <small class="text-muted">@item.Fecha.ToString("hh:mm tt")</small>
+                                </td>
+                                <td><span class="badge bg-success">@item.Estado</span></td>
+                                <td><span class="text-muted">@item.ResumenProductos</span></td>
+                                <td class="text-end fw-bold text-success">
+                                    @item.TotalPagado.ToString("C2", culture)
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    }
+</div>

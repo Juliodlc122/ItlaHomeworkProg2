@@ -1,0 +1,4 @@
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\obj\Debug\net9.0\OutletRopa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\obj\Debug\net9.0\OutletRopa.AssemblyInfoInputs.cache
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\obj\Debug\net9.0\OutletRopa.AssemblyInfo.cs
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\obj\Debug\net9.0\OutletRopa.csproj.CoreCompileInputs.cache

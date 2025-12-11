@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RopaOutlet.Application/1.0.0": {
+        "dependencies": {
+          "RopaOutlet.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RopaOutlet.Application.dll": {}
+        }
+      },
+      "RopaOutlet.Domain/1.0.0": {
+        "runtime": {
+          "RopaOutlet.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RopaOutlet.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RopaOutlet.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

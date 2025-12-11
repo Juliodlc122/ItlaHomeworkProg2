@@ -1,0 +1,49 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px; 
+    background-color: #f8f9fa; 
+}
+
+
+.card {
+    transition: all 0.3s ease-in-out;
+}
+
+    .card:hover {
+        transform: translateY(-10px); 
+        box-shadow: 0 1rem 3rem rgba(0,0,0,.175) !important; 
+        cursor: pointer;
+    }
+
+
+.card-img-top {
+    transition: transform 0.5s ease;
+}
+
+.card:hover .card-img-top {
+    transform: scale(1.02); 
+}
+
+
+.btn {
+    border-radius: 2px;
+    letter-spacing: 1px;
+}
+
+.summary .card-body h3,
+#summaryRow .card-body h3,
+.currency-value {
+    white-space: nowrap;
+    overflow: visible;
+    display: inline-block;
+    min-width: 110px;
+}
+
+#summaryRow .card-body h3 {
+    font-weight: 700;
+    font-size: 1.6rem;
+}

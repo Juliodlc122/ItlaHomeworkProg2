@@ -1,0 +1,17 @@
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Infrastructure\bin\Debug\net8.0\OutletRopa.Infrastructure.deps.json
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Infrastructure\bin\Debug\net8.0\OutletRopa.Infrastructure.dll
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Infrastructure\bin\Debug\net8.0\OutletRopa.Infrastructure.pdb
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Infrastructure\bin\Debug\net8.0\OutletRopa.Application.dll
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Infrastructure\bin\Debug\net8.0\OutletRopa.Domain.dll
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Infrastructure\bin\Debug\net8.0\OutletRopa.Application.pdb
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Infrastructure\bin\Debug\net8.0\OutletRopa.Domain.pdb
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Infrastructure\obj\Debug\net8.0\OutletRopa.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Infrastructure\obj\Debug\net8.0\OutletRopa.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Infrastructure\obj\Debug\net8.0\OutletRopa.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Infrastructure\obj\Debug\net8.0\OutletRopa.Infrastructure.AssemblyInfo.cs
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Infrastructure\obj\Debug\net8.0\OutletRopa.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Infrastructure\obj\Debug\net8.0\OutletRo.7E199573.Up2Date
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Infrastructure\obj\Debug\net8.0\OutletRopa.Infrastructure.dll
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Infrastructure\obj\Debug\net8.0\refint\OutletRopa.Infrastructure.dll
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Infrastructure\obj\Debug\net8.0\OutletRopa.Infrastructure.pdb
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkProg2\OutletRopa\OutletRopa.Infrastructure\obj\Debug\net8.0\ref\OutletRopa.Infrastructure.dll
