@@ -1,0 +1,345 @@
+[
+  {
+    "ContainingType": "OutletRopa.API.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "OutletRopa.API.Controllers.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OutletRopa.API.Controllers.AuthController",
+    "Method": "Registrar",
+    "RelativePath": "api/Auth/registro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "OutletRopa.Domain.Entities.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OutletRopa.API.Controllers.ClientesController",
+    "Method": "GetClientePorUsuario",
+    "RelativePath": "api/Clientes/por-usuario/{usuarioId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OutletRopa.API.Controllers.InventarioController",
+    "Method": "ObtenerInventario",
+    "RelativePath": "api/Inventario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OutletRopa.API.Controllers.InventarioController",
+    "Method": "EliminarProducto",
+    "RelativePath": "api/Inventario/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OutletRopa.API.Controllers.InventarioController",
+    "Method": "ActualizarStock",
+    "RelativePath": "api/Inventario/actualizar-stock/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "cantidad",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OutletRopa.API.Controllers.InventarioController",
+    "Method": "ObtenerValorTotal",
+    "RelativePath": "api/Inventario/valor-total",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OutletRopa.API.Controllers.ReportesController",
+    "Method": "ObtenerResumen",
+    "RelativePath": "api/Reportes/resumen",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OutletRopa.API.Controllers.RopaController",
+    "Method": "Get",
+    "RelativePath": "api/Ropa",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OutletRopa.API.Controllers.RopaController",
+    "Method": "Get",
+    "RelativePath": "api/Ropa/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OutletRopa.API.Controllers.RopaController",
+    "Method": "Delete",
+    "RelativePath": "api/Ropa/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OutletRopa.API.Controllers.RopaController",
+    "Method": "GetPrecioFinal",
+    "RelativePath": "api/Ropa/{id}/precio-final",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OutletRopa.API.Controllers.RopaController",
+    "Method": "GetCamisas",
+    "RelativePath": "api/Ropa/camisa",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OutletRopa.API.Controllers.RopaController",
+    "Method": "CreateCamisa",
+    "RelativePath": "api/Ropa/camisa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "camisa",
+        "Type": "OutletRopa.Domain.Entities.Camisa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OutletRopa.API.Controllers.RopaController",
+    "Method": "GetCamisas",
+    "RelativePath": "api/Ropa/camisas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OutletRopa.API.Controllers.RopaController",
+    "Method": "Get",
+    "RelativePath": "api/Ropa/obtener-todas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OutletRopa.API.Controllers.RopaController",
+    "Method": "GetPantalones",
+    "RelativePath": "api/Ropa/pantalon",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OutletRopa.API.Controllers.RopaController",
+    "Method": "CreatePantalon",
+    "RelativePath": "api/Ropa/pantalon",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pantalon",
+        "Type": "OutletRopa.Domain.Entities.Pantalon",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OutletRopa.API.Controllers.RopaController",
+    "Method": "GetPantalones",
+    "RelativePath": "api/Ropa/pantalones",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OutletRopa.API.Controllers.RopaController",
+    "Method": "Get",
+    "RelativePath": "api/Ropa/todos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OutletRopa.API.Controllers.RopaController",
+    "Method": "GetZapatos",
+    "RelativePath": "api/Ropa/zapato",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OutletRopa.API.Controllers.RopaController",
+    "Method": "CreateZapato",
+    "RelativePath": "api/Ropa/zapato",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "zapato",
+        "Type": "OutletRopa.Domain.Entities.Zapato",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OutletRopa.API.Controllers.RopaController",
+    "Method": "GetZapatos",
+    "RelativePath": "api/Ropa/zapatos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OutletRopa.API.Controllers.VentasController",
+    "Method": "GetVentas",
+    "RelativePath": "api/Ventas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OutletRopa.API.Controllers.VentasController",
+    "Method": "GetVentasPorCliente",
+    "RelativePath": "api/Ventas/por-cliente/{clienteId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "clienteId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OutletRopa.API.Controllers.VentasController",
+    "Method": "ProcesarCarrito",
+    "RelativePath": "api/Ventas/procesar-carrito",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orden",
+        "Type": "OutletRopa.Application.DTOs.CarritoCompraDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

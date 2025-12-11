@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "Crear Cuenta";
+}
+
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow-lg border-0">
+                <div class="card-header bg-dark text-white text-center py-3">
+                    <h3 class="fw-bold mb-0">NUEVA CUENTA</h3>
+                </div>
+                <div class="card-body p-4">
+
+                    @if (ViewBag.Error != null)
+                    {
+                        <div class="alert alert-danger">@ViewBag.Error</div>
+                    }
+
+                    <form asp-action="Registrar" method="post">
+                        <div class="mb-3">
+                            <label class="fw-bold">Nombre Completo</label>
+                            <input name="nombre" class="form-control" placeholder="Tu nombre" required />
+                        </div>
+                        <div class="mb-3">
+                            <label class="fw-bold">Correo Electrónico</label>
+                            <input name="email" type="email" class="form-control" placeholder="email@ejemplo.com" required />
+                        </div>
+                        <div class="mb-3">
+                            <label class="fw-bold">Contraseña</label>
+                            <input name="password" type="password" class="form-control" placeholder="******" required />
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 mb-3">
+                                <label class="fw-bold">Teléfono</label>
+                                <input name="telefono" class="form-control" placeholder="(809) 000-0000" required />
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <label class="fw-bold">Dirección</label>
+                                <input name="direccion" class="form-control" placeholder="Calle, Casa..." required />
+                            </div>
+                        </div>
+
+                        <div class="d-grid gap-2 mt-3">
+                            <button type="submit" class="btn btn-primary btn-lg rounded-0">REGISTRARSE</button>
+                        </div>
+                    </form>
+
+                    <div class="text-center mt-3">
+                        <a asp-action="Login" class="text-decoration-none">¿Ya tienes cuenta? Inicia sesión aquí</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
